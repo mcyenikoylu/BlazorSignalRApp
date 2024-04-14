@@ -40,3 +40,4 @@
 /Users/mcyenikoylu/Documents/Projects/signalR_blazor/BlazorSignalRApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
 /Users/mcyenikoylu/Documents/Projects/signalR_blazor/BlazorSignalRApp/obj/Debug/net8.0/BlazorSignalRApp.csproj.AssemblyReference.cache
 /Users/mcyenikoylu/Documents/Projects/signalR_blazor/BlazorSignalRApp/obj/Debug/net8.0/BlazorSi.3E1DCFEF.Up2Date
+/Users/mcyenikoylu/Documents/Projects/signalR_blazor/BlazorSignalRApp/obj/Debug/net8.0/BlazorSignalRApp.sourcelink.json
