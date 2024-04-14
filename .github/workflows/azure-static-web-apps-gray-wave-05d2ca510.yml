@@ -23,7 +23,7 @@ jobs:
       - name: Setup .NET SDK
         uses: actions/setup-dotnet@v1
         with:
-          dotnet-version: 3.1.300
+          dotnet-version: 8.0
 
       - name: Build Blazor App
         run: dotnet publish -c Release -o ../published
@@ -40,9 +40,9 @@ jobs:
           # app_location: "/BlazorSignalRApp" # App source code path
           # api_location: "api" # Api source code path - optional
           # output_location: "wwwroot" # Built app content directory - optional
-          app_location: "published/wwwroot"
-          api_location: ""
-          output_location: "published/wwwroot"
+          app_location: 'published/wwwroot'
+          api_location: ''
+          output_location: 'published/wwwroot'
           ###### End of Repository/Build Configurations ######
 
   close_pull_request_job:
